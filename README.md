@@ -34,6 +34,3 @@ npm install axios
 ```
 一个css插件
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
