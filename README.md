@@ -1,4 +1,4 @@
-# eleme-cube
+# 粥品香坊
 ```
 本项目使用vue-cli 3.0、vue 2.0、cube-ui、axios、stylus开发
 ```
